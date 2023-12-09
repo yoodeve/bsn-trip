@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bsn-trip/static/css/main.b2c2909b.css",
-    "main.js": "/bsn-trip/static/js/main.0f60c573.js",
+    "main.js": "/bsn-trip/static/js/main.e2eca559.js",
     "index.html": "/bsn-trip/index.html",
     "main.b2c2909b.css.map": "/bsn-trip/static/css/main.b2c2909b.css.map",
-    "main.0f60c573.js.map": "/bsn-trip/static/js/main.0f60c573.js.map"
+    "main.e2eca559.js.map": "/bsn-trip/static/js/main.e2eca559.js.map"
   },
   "entrypoints": [
     "static/css/main.b2c2909b.css",
-    "static/js/main.0f60c573.js"
+    "static/js/main.e2eca559.js"
   ]
 }
