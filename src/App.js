@@ -9,7 +9,7 @@ import Welcome from "./pages/Welcome";
 
 function App() {
  return (
-  <Router basename="bsn-trip">
+  <Router>
    <Routes>
     <Route path="/" element={<Navigation />}>
      <Route index element={<Welcome />} />
