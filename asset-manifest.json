@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://yoodeve.github.io/bsn-trip/static/css/main.b2c2909b.css",
-    "main.js": "https://yoodeve.github.io/bsn-trip/static/js/main.d711d03b.js",
+    "main.js": "https://yoodeve.github.io/bsn-trip/static/js/main.1c577161.js",
     "index.html": "https://yoodeve.github.io/bsn-trip/index.html",
     "main.b2c2909b.css.map": "https://yoodeve.github.io/bsn-trip/static/css/main.b2c2909b.css.map",
-    "main.d711d03b.js.map": "https://yoodeve.github.io/bsn-trip/static/js/main.d711d03b.js.map"
+    "main.1c577161.js.map": "https://yoodeve.github.io/bsn-trip/static/js/main.1c577161.js.map"
   },
   "entrypoints": [
     "static/css/main.b2c2909b.css",
-    "static/js/main.d711d03b.js"
+    "static/js/main.1c577161.js"
   ]
 }
