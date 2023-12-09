@@ -9,7 +9,7 @@ import Welcome from "./pages/Welcome";
 
 function App() {
  return (
-  <Router basename={process.env.PUBLIC_URL}>
+  <Router basename="bsn-trip">
    <Routes>
     <Route path="/" element={<Navigation />}>
      <Route index element={<Welcome />} />
