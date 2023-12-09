@@ -1,4 +1,4 @@
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Navigation from "./components/Navigation";
 import First from "./pages/First";
@@ -9,7 +9,7 @@ import Welcome from "./pages/Welcome";
 
 function App() {
  return (
-  <Router>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
    <Routes>
     <Route path="/" element={<Navigation />}>
      <Route index element={<Welcome />} />
@@ -19,7 +19,7 @@ function App() {
      <Route path="forth" element={<Forth />} />
     </Route>
    </Routes>
-  </Router>
+  </BrowserRouter>
  );
 }
 
